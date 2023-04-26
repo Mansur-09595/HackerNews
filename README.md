@@ -1,5 +1,7 @@
 # Hacker News API
 
+[Ссылка на проект](https://newshackersabout.netlify.app/).
+
 ## Функционал
 
 ### Главная страница
