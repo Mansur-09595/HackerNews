@@ -45,13 +45,13 @@
 Клонировать проект:
 
 ```bash
-$ git clone https://github.com/mansur-09595/hacker-news.git
+$ git clone https://github.com/Mansur-09595/HackerNews
 ```
 
 Перейти в директорию проекта и установить зависимости
 
 ```bash
-$ cd hacker-news && npm install
+$ cd HackerNews && npm install
 ```
 
 Запустить приложение
